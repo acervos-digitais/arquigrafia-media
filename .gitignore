@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+log.txt
+openai_api.py
+logs/
+lightning_logs/
